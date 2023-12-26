@@ -1,0 +1,80 @@
+
+
+a{
+  text-decoration: none;
+}
+
+
+.conoce {
+
+    padding: 1rem;
+    margin: .4rem;
+
+}
+.conoce .convierte{
+  font-size: .7rem;
+  font-weight: 300;
+}
+.conoce > div{
+  font-weight: 600;
+  font-size: 1.7rem;
+}
+
+
+.navbar-collapse {
+  
+   flex-grow: 0; 
+ 
+}
+
+.row{
+  --bs-gutter-x: 0rem;
+}
+
+.tituloBs{
+  font-size: 2rem;
+}
+
+.textoBs{
+  font-weight: 2rem;
+}
+
+.fondoColor{
+  background-color: rgb(30, 80, 110);
+}
+
+.panMen{
+padding-left: 2rem;
+}
+
+/* .padingPre{
+  padding-bottom:30rem ;
+} */
+
+.imgFilt img{
+  filter: brightness(50%);
+}
+
+.colorBtn{
+background-color: rgb(150, 201, 62);
+}
+
+.fontSize{
+font-size: .8rem;
+}
+
+ .tamañoBtnEnviar{ 
+  width: 75rem;
+
+ }
+
+
+.inputText{
+  width: 24rem;
+  
+}
+
+.textDeco{
+  text-decoration: underline dotted;
+}
+

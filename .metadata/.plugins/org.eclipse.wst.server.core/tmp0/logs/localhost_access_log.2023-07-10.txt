@@ -1,0 +1,4 @@
+127.0.0.1 - - [10/Jul/2023:15:10:34 -0300] "GET / HTTP/1.1" 404 688
+0:0:0:0:0:0:0:1 - - [10/Jul/2023:15:10:36 -0300] "GET /proyfinal/view/listadoUsuarios.jsp HTTP/1.1" 200 7724
+0:0:0:0:0:0:0:1 - - [10/Jul/2023:15:10:36 -0300] "GET /proyfinal/view/js/listUsu.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [10/Jul/2023:15:10:36 -0300] "GET /favicon.ico HTTP/1.1" 404 699
